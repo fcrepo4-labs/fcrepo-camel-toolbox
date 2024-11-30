@@ -32,7 +32,7 @@
 
     <!-- dependencies -->
     <activemq.version>5.16.7</activemq.version>
-    <camel.version>3.9.0</camel.version>
+    <camel.version>3.21.4</camel.version>
     <commons.lang3.version>3.4</commons.lang3.version>
     <jackson2.version>2.13.5</jackson2.version>
     <jena.version>4.2.0</jena.version>
